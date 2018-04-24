@@ -1,3 +1,8 @@
-let name = 'John Lee';
+let firstName = 'John';
+let lastName = 'Lee';
 
-console.log(name);
+let fullName = `${firstName} ${lastName}`;
+
+console.log(fullName);
+
+let camelCase = 'camel case!'
